@@ -1,0 +1,38 @@
+{
+  "hash": "1668bd01",
+  "browserHash": "7a5b05e0",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "00aae6ef",
+      "needsInterop": false
+    },
+    "fire-starters": {
+      "src": "../../../../node_modules/fire-starters/dist/library.mjs",
+      "file": "fire-starters.js",
+      "fileHash": "d34125b5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ODOPCOSX": {
+      "file": "chunk-ODOPCOSX.js"
+    },
+    "html2canvas.esm-JUJ2M7FA": {
+      "file": "html2canvas__esm-JUJ2M7FA.js"
+    },
+    "purify.es-2THI4SRT": {
+      "file": "purify__es-2THI4SRT.js"
+    },
+    "index.es-BW77446J": {
+      "file": "index__es-BW77446J.js"
+    },
+    "chunk-A3GLA3NW": {
+      "file": "chunk-A3GLA3NW.js"
+    },
+    "chunk-RNBODORO": {
+      "file": "chunk-RNBODORO.js"
+    }
+  }
+}
